@@ -8571,7 +8571,10 @@
         <nationalNumberPattern>
           1(?:
             [59]|
-            77
+            77|
+            41|
+            50|
+            90
           )
         </nationalNumberPattern>
       </shortCode>
@@ -8581,7 +8584,10 @@
         <nationalNumberPattern>
           1(?:
             [59]|
-            77
+            77|
+            41|
+            50|
+            90
           )
         </nationalNumberPattern>
       </tollFree>
@@ -8591,7 +8597,10 @@
         <nationalNumberPattern>
           1(?:
             [59]|
-            77
+            77|
+            41|
+            50|
+            90
           )
         </nationalNumberPattern>
       </emergency>
